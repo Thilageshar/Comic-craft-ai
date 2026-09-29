@@ -1,0 +1,6 @@
+{
+  "name": "ComicCraft",
+  "description": "AI comic story creator that generates dynamic multi-panel visual comic strips, dialogues, captions, and speech bubbles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
